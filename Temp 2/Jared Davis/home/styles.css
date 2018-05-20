@@ -1,0 +1,160 @@
+body{
+  overflow-x: hidden;
+}
+audio{
+  display:none;
+}
+.bigger{
+  height:667px;
+}
+.row{
+  padding:1%;
+}
+img {
+    max-width: 100%;
+    max-height:100%;
+     border-style: solid;
+    border-width: 5px;
+    
+}
+.jumbotron{
+  
+}
+.navbar-brand{
+  font-family: 'Fredericka the Great', cursive; 
+}
+.bigger{
+  font-size:18px;
+}
+footer{
+  color:white;
+  text-align:center;
+  font-family: 'Fredericka the Great', cursive;
+  line-height: 200%;
+  background-color:#484547;
+  
+}
+.smaller{
+  font-size:25px;
+}
+h2{
+  font-family: 'Dancing Script', cursive;
+  text-align:center;
+  padding-top:5px;
+}
+.white{
+  width:40%;
+  position:relative;
+  left:25%;
+}
+.white h1{
+   text-align:center;
+}
+.white p{
+  color:#C4D2D8;
+  font-weight:bold;
+  padding-top:10px;
+  text-align:center;
+  line-height: 200%;
+  
+}
+.white{
+ 
+  
+   /* Fallback for web browsers that don't support RGBa */
+    background-color: rgb(0, 0, 0);
+    /* RGBa with 0.6 opacity */
+    background-color: rgba(0, 0, 0, 0.6);
+    /* For IE 5.5 - 7*/
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+    /* For IE 8*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+}
+.white h1{
+
+  
+}
+.col-md-6{
+  padding:5%;
+}
+.container h2, {
+  color:white;
+  font-size:34px;
+  
+}
+.container p{
+  text-align:center;
+}
+body{
+  width:100%;
+  background-color:#f2f2f2;
+}
+nav h1{
+  font-family: 'Fredericka the Great', cursive;
+   font-size: 41px;
+    text-shadow: 2px ;
+    color:#00A5A9;
+  
+}
+nav a{
+ color:#00A5A9; 
+}
+.container h1{
+  font-family: 'Pacifico', cursive;
+  color:#C4D2D8;
+  
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+.jumbotron{
+  background-image:url("SCENERY AND LANDSCAPES/SUN.jpg");
+  background-size: 100%;
+  background-repeat:no-repeat;
+  height:600px;
+  margin-bottom:0px;
+  
+}
+@media screen and (max-width: 480px) {
+    .jumbotron {
+       
+  background-size: 100% 100%;
+  background-repeat:no-repeat;
+  
+    }
+}
+.gray{
+  width:100%;
+  
+  max-width:none;
+  
+  opacity:0.8;
+}
+.gray h1{
+
+  text-align:center;
+  position:relative;
+  font-family: 'Lobster', cursive;
+}
+.over{
+  left:15%;
+}
+.text p{
+  font-size:20px;
+}
+footer{
+  background-color:#313136;
+}
+.info{
+  color:white;
+  display:inline;
+  
+  
+}
+.info p{
+ ;
+}
+.info img{
+  top:10%;
+}
